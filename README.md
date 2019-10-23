@@ -1,3 +1,3 @@
-# trying-out-langapi
+# trying-out-crowdin
 
-Trying out langapi.co.
+Trying out Crowdin.
