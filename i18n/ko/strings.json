@@ -1,4 +1,4 @@
 {
-  "helloWorld": "Hello, world!",
-  "greeting": "I am {name}."
+  "helloWorld": "안녕하세요!",
+  "greeting": "{name}입니다."
 }
